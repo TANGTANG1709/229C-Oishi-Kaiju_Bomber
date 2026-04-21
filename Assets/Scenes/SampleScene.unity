@@ -643,6 +643,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: military-helicopter-pixel-art_505135-73-removebg-preview_0
       objectReference: {fileID: 0}
+    - target: {fileID: 1048026067666347929, guid: 28c8e477200425a4f8381cb0b00e8314, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1048026067666347929, guid: 28c8e477200425a4f8381cb0b00e8314, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6508859968801909110, guid: 28c8e477200425a4f8381cb0b00e8314, type: 3}
       propertyPath: m_LocalPosition.x
       value: 40.95438
@@ -968,6 +976,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1213464230695043270, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1213464230695043270, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 45.46407
@@ -982,7 +998,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalRotation.x
@@ -990,7 +1006,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalRotation.z
@@ -1002,7 +1018,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 5952198897290565418, guid: 5f663b8edc05c4945ac0eb182821f40b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z

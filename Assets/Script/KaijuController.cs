@@ -34,6 +34,7 @@ public class KaijuController : MonoBehaviour
     private int          currentHP;
     private int          killCount   = 0;          // for golden time trigger
     private const int    GOLDEN_KILLS = 10;
+    private float moveInput;
 
     public int   CurrentHP  => currentHP;
     public bool  GoldenTime => goldenTime;
@@ -43,6 +44,13 @@ public class KaijuController : MonoBehaviour
     public System.Action<int> OnHPChanged;
     public System.Action      OnGoldenTimeStart;
     public System.Action      OnDeath;
+    SpriteRenderer sr;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
+    }
 
     void Awake()
     {
@@ -55,8 +63,15 @@ public class KaijuController : MonoBehaviour
 
     void Update()
     {
+        moveInput = Input.GetAxis("Horizontal");
+
+        if (moveInput != 0)
+        {
+            sr.flipX = (moveInput < 0);
+        }
         if (bombTimer > 0f)
             bombTimer -= Time.deltaTime;
+
 
         HandleInput();
     }
@@ -67,6 +82,7 @@ public class KaijuController : MonoBehaviour
         // F_drag = -k * v   (opposes velocity, proportional to speed)
         // F = ma  →  a = F/m  →  apply via AddForce
         Vector2 dragForce = -dragCoefficient * rb.linearVelocity;
+        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
         rb.AddForce(dragForce);   // F = ma applied through Rigidbody2D
     }
 
