@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Background
   - Ground
+  - Building
+  - Helicopter
+  - Gunner
   layers:
   - Default
   - TransparentFX
@@ -14,8 +17,8 @@ TagManager:
   - Water
   - UI
   - Background
-  - 
-  - 
+  - Enemy
+  - Building
   - 
   - 
   - 
@@ -45,3 +48,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  m_MigratedRenderPipelines: []
