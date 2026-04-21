@@ -285,7 +285,7 @@ TextureImporter:
         width: 35
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,7 +307,7 @@ TextureImporter:
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -329,7 +329,7 @@ TextureImporter:
         width: 35
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,10 +346,10 @@ TextureImporter:
       name: Black_Soldier_3
       rect:
         serializedVersion: 2
-        x: 44
-        y: 1341
-        width: 37
-        height: 37
+        x: 30
+        y: 600
+        width: 60
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,72 +365,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Black_Soldier_4
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 1341
-        width: 36
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04bd352fc480180e0800000000000000
-      internalID: -2269523610641900736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_5
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 1341
-        width: 30
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 360b9cbb3eaca6680800000000000000
-      internalID: -8760967045638934429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_6
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 1274
-        width: 31
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c0202f7e3134f5c0800000000000000
-      internalID: -4182664009429802816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Black_Soldier_7
       rect:
         serializedVersion: 2
@@ -439,7 +373,7 @@ TextureImporter:
         width: 50
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -461,7 +395,7 @@ TextureImporter:
         width: 34
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -483,7 +417,7 @@ TextureImporter:
         width: 19
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,7 +439,7 @@ TextureImporter:
         width: 50
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,7 +461,7 @@ TextureImporter:
         width: 35
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -549,7 +483,7 @@ TextureImporter:
         width: 21
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -571,7 +505,7 @@ TextureImporter:
         width: 25
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,7 +527,7 @@ TextureImporter:
         width: 27
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -615,7 +549,7 @@ TextureImporter:
         width: 33
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -637,7 +571,7 @@ TextureImporter:
         width: 30
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -659,7 +593,7 @@ TextureImporter:
         width: 25
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -681,7 +615,7 @@ TextureImporter:
         width: 25
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -703,7 +637,7 @@ TextureImporter:
         width: 30
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -725,7 +659,7 @@ TextureImporter:
         width: 26
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,270 +673,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Black_Soldier_21
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 872
-        width: 31
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32ab6d784b49d5180800000000000000
-      internalID: -9124973766888736221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_22
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 872
-        width: 30
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fce46161118ab6b0800000000000000
-      internalID: -5279765701490053897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_23
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 872
-        width: 36
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 38a80c989edb90b00800000000000000
-      internalID: 795375619943729795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_24
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 805
-        width: 37
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ec5b6eca576b61e0800000000000000
-      internalID: -2203553952959865628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_25
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 805
-        width: 35
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95c7b25515d0f5380800000000000000
-      internalID: -8980444488981054375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_26
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 805
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45b6c29c52bdbc980800000000000000
-      internalID: -8517473314905756844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_27
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 738
-        width: 35
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16b471ee386a73e90800000000000000
-      internalID: -7045980006432421023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_28
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 671
-        width: 37
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95b74adf2c2f714f0800000000000000
-      internalID: -857950284697797799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_29
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 686
-        width: 16
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 909c01383960bc0b0800000000000000
-      internalID: -5707460872133097207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_30
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 671
-        width: 37
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f99c007f211da01f0800000000000000
-      internalID: -1077819281418172001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_31
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 683
-        width: 19
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90f2429ee4b64d840800000000000000
-      internalID: 5247937452456554249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_32
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 671
-        width: 45
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3efd251357951b730800000000000000
-      internalID: 4013087102837383139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Black_Soldier_33
       rect:
         serializedVersion: 2
@@ -1011,7 +681,7 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1025,28 +695,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Black_Soldier_34
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 604
-        width: 59
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2df47a7aaad768180800000000000000
-      internalID: -9113458624026947630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Black_Soldier_35
       rect:
         serializedVersion: 2
@@ -1055,7 +703,7 @@ TextureImporter:
         width: 65
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1077,7 +725,7 @@ TextureImporter:
         width: 67
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1099,7 +747,7 @@ TextureImporter:
         width: 47
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1112,495 +760,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_38
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 470
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1287d6bbe75d4ed10800000000000000
-      internalID: 2154081262077048865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_39
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 470
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e116d1efd143e260800000000000000
-      internalID: 7125611465252671977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_40
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 470
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e6c9eb5ec550b200800000000000000
-      internalID: 193749128770602728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_41
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 403
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af367e2aa29bb2090800000000000000
-      internalID: -8058143515476532230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_42
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 403
-        width: 24
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3195d05e3d45c5f70800000000000000
-      internalID: 9177303409731918099
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_43
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 336
-        width: 26
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcdb9c75019edb8d0800000000000000
-      internalID: -2828848734517215793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_44
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 336
-        width: 23
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7cd9115411bece10800000000000000
-      internalID: 2219906367158344831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_45
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 336
-        width: 23
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb8e98bd7dc17cd60800000000000000
-      internalID: 7910322983926360254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_46
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 269
-        width: 28
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: befe7f09d6b7941c0800000000000000
-      internalID: -4518945040575762453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_47
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 269
-        width: 40
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a7c14dc09bc60a60800000000000000
-      internalID: 7640017640659994531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_48
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 202
-        width: 40
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 811985e3b27764d20800000000000000
-      internalID: 3262426007689793816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_49
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 202
-        width: 28
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a69caadd5df928b30800000000000000
-      internalID: 4288165536105941354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_50
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 202
-        width: 23
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd67e9ffa0dffc5a0800000000000000
-      internalID: -6498697513592260901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_51
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 135
-        width: 23
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01cc06ab16c1e4450800000000000000
-      internalID: 6074824153433689104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_52
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 135
-        width: 26
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfe5d24c1ea3c4c20800000000000000
-      internalID: 3191990977232199419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_53
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 68
-        width: 42
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5158e0d32cfc0a70800000000000000
-      internalID: 8794681403106677085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_54
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 89
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e97ef9ee648b266a0800000000000000
-      internalID: -6457396300905191522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_55
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 68
-        width: 39
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6cd864b9434dcb020800000000000000
-      internalID: 2358993627243777478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_56
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 89
-        width: 15
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c3555df7877d4a80800000000000000
-      internalID: -8480991097314257984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_57
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 68
-        width: 57
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2f832dbad2e976b0800000000000000
-      internalID: -5297954057520705747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_58
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 1
-        width: 60
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08e5fb4f1d6ad4740800000000000000
-      internalID: 5137946170584161920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Black_Soldier_59
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 1
-        width: 44
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9dce4fa7a7a477410800000000000000
-      internalID: 1474729292896464089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8ed487913f8d934439d12eb45adc3b0a
     internalID: 0
     vertices: []
     indices: 
@@ -1667,6 +831,8 @@ TextureImporter:
       Black_Soldier_58: 5137946170584161920
       Black_Soldier_59: 1474729292896464089
       Black_Soldier_6: -4182664009429802816
+      Black_Soldier_60: -9732132
+      Black_Soldier_61: -244635385
       Black_Soldier_7: 6392804006119976693
       Black_Soldier_8: 2776501847827797080
       Black_Soldier_9: 7409559010571463535
